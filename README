@@ -1,0 +1,26 @@
+
+metamask
+
+# Get more ether
+faucet.rinkeby.io
+
+# Compile Contract with solc
+npm install --save solc
+
+to compile: node compile.js => generate ABI and bytecode
+
+# Install ganache to simulate local network, test with moch and api call with web3
+npm install --save mocha ganache-cli web3@1.0.0-beta.26
+
+
+# Infura Network
+Infura provides API to interact with ethereum Network
+create an online account
+
+# Install truffle
+npm install --save truffle-hdwallet-provider
+
+# Scan Contract
+https://rinkeby.etherscan.io
+
+remix.ethereum.org
